@@ -1,9 +1,15 @@
 RECAPTCHA 国内无法加载解决方案
+
 打开 gooreplacer 的设置页面，找到“Redirect URL”标签。
+
 点击 Add，添加下面的重定向:
+
 Source填写：www.google.com/recaptcha
+
 Destination填写：recaptcha.net/recaptcha
+
 输入完成后点 Sumbit
+
 原地址：https://blog.azurezeng.com/recaptcha-use-in-china-1/
 
 
